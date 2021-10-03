@@ -1,1 +1,2 @@
 # Teoria-cuantica-basica
+### Prerrequisitos
